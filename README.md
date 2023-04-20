@@ -21,3 +21,6 @@ Once ownership has been taken, the program ends and displays a message indicatin
 * Execute the command with the file path as an argument:
 * OwnershipStealer.exe [file path]
 * If no file path is provided, the program will prompt for one.
+
+## Video Proof-of-Concept
+https://youtu.be/sOcJp58sblM
