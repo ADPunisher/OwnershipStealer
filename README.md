@@ -22,5 +22,9 @@ Once ownership has been taken, the program ends and displays a message indicatin
 * OwnershipStealer.exe [file path]
 * If no file path is provided, the program will prompt for one.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Video Proof-of-Concept
 https://youtu.be/sOcJp58sblM
